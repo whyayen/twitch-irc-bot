@@ -2,7 +2,7 @@
 twitch irc bot in php.
 I won't maintain this project forever.
 
-If u have any issues , you can fork it & fix it.
+If you have any issues , you can fork it & fix it.
 
 # Reference
 This project use this source to modify.
